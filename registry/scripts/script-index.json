@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generatedAt": "2026-06-05T12:51:34.269Z",
-    "scriptCount": 2616,
+    "generatedAt": "2026-10-01T15:02:54.000Z",
+    "scriptCount": 2634,
     "projectCount": 117
   },
   "scripts": {
@@ -17329,6 +17329,132 @@
       "purpose": "SPEND",
       "type": "PLUTUS",
       "plutusVersion": 2
+    },
+    "21c9b7b965646069f9becebf8b4c3cedaf84c19b109eaa5980a14a26": {
+      "projectId": "sundae-swap",
+      "name": "V4 Pool",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "d9d5985e0657933005d6eb953aeadad29aa8c36f17e493e2962584ec": {
+      "projectId": "sundae-swap",
+      "name": "V4 Pool Mint",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "07eb2fb09d9dd6603870ce6f84c8f8506249152173ddf0c77f1f07ec": {
+      "projectId": "sundae-swap",
+      "name": "V4 Order",
+      "purpose": "SPEND/WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "30f1fac08a15ef84ea6a5aa04989b1c2ceeb3b437f2c3103df5aca68": {
+      "projectId": "sundae-swap",
+      "name": "V4 Basic Order Constraint",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "808db58d7d66d348b0cc7d83c202ef1d19534d00bf6c463a531020ad": {
+      "projectId": "sundae-swap",
+      "name": "V4 Settings",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "371738e95ab3f0afba69c6b0896df05d7851a5307a830677b77c2ead": {
+      "projectId": "sundae-swap",
+      "name": "V4 Settings Mint",
+      "purpose": "MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "4e1a435f8d55f26068150579c18964e58078082b899e6bb560be7cd5": {
+      "projectId": "sundae-swap",
+      "name": "V4 Constant Sum Module",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "1351c687e6359b0030086fc7ddd6cd389f55f97faba3f531c5535688": {
+      "projectId": "sundae-swap",
+      "name": "V4 Fee Split Module",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "31d2328d6ddc3d5dfc48c5b827aa922506a80e7db40f25ef807d0fd5": {
+      "projectId": "sundae-swap",
+      "name": "V4 Fairness Module",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "35a9eebba5ea685d1deb20e269ca0045b9ff35df85cedde95c619a70": {
+      "projectId": "sundae-swap",
+      "name": "V4 Strategy Order Constraint",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "267eabb980be6699144e85b24283659838b0746e0fd2f08be1423e70": {
+      "projectId": "sundae-swap",
+      "name": "V4 Fee Constraint",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "518c4a6ef444c2f0631b3a7adb7514d80212dff988e35c1318da88a2": {
+      "projectId": "sundae-swap",
+      "name": "V4 Governance Module",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "bcdca3ffc967ed2a5bf2dc9040f9f17d97f574122f7561fe26ef565b": {
+      "projectId": "sundae-swap",
+      "name": "V4 Treasury Policy Module",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "f47f6594cab956302f7f1cd81ac4122e9ee128146102497feca1a79f": {
+      "projectId": "sundae-swap",
+      "name": "V4 Stableswap Module",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "4399813dad91bb78a5eb17c26ff50852bc75d3fa7b6e9ae87232ccc1": {
+      "projectId": "sundae-swap",
+      "name": "V3 Pool Stake",
+      "purpose": "WITHDRAW/PUBLISH",
+      "type": "PLUTUS",
+      "plutusVersion": 2
+    },
+    "6ab62945d0d8d6288e243b3b6437ff9c099a38e088288f5a6b7c5e8b": {
+      "projectId": "sundae-swap",
+      "name": "Stableswaps Order",
+      "purpose": "SPEND",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "4de79a0c17180030bff4c36825cb6e99caa007bc632f789561a26d56": {
+      "projectId": "sundae-swap",
+      "name": "Stableswaps Pool",
+      "purpose": "SPEND/MINT",
+      "type": "PLUTUS",
+      "plutusVersion": 3
+    },
+    "598e5522eeb4faef80158a5c1d47ec1f1eaf7750b538dc3110a1cf64": {
+      "projectId": "sundae-swap",
+      "name": "Stableswaps Stake",
+      "purpose": "WITHDRAW",
+      "type": "PLUTUS",
+      "plutusVersion": 3
     }
   },
   "projects": {
